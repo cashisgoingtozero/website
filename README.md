@@ -1,5 +1,5 @@
 # website
-Public driven website for the oficial token CASH IS GOING TO ZERO: https://cashisgoingtozero.github.io/website/
+Public driven website for the oficial token FIAT IS GOING TO ZERO: https://cashisgoingtozero.github.io/website/
 
 # FIAT IS GOING TO ZERO
 
