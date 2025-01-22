@@ -9,5 +9,5 @@ We pledge to make participation in our community a harassment-free experience fo
 - Focus on what is best for the community.
 
 ## Enforcement Responsibilities
-Instances of abusive behavior may be reported by contacting the project team at [email@example.com].
+Instances of abusive behavior may be reported to the community.
 
